@@ -1,7 +1,8 @@
-#profile-title:Remiuc VPN 
+#profile-title:Remiuc VPN 🔑
 #support-url: https://t.me/hiddifycode
 #profile-update-interval: 1
 #subscription-userinfo: expire=4102444800; total=0; used=0
 #announce:Наш телеграм канал @hiddifycode 🌖                                                                                                                                                                                                           (прежде чем включать проверяйте пинг☝)
-vless://4c007160-4670-001e-b5c9-37ce0723f87c@144.31.129.174:443?encryption=none&security=reality&sni=s3-fi-1.rucdn777.com&fp=firefox&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&flow=xtls-rprx-vision#Ищите в канале.
-
+vless://218b7dcf-6080-486f-ad40-e7278d65fee2@144.31.215.196:443?security=reality&encryption=none&pbk=jwLEnDwGROadL1ax-SrVC50sE5slaP7TbGQtBxkcTws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=8c9ab0f7b293f9ef#Германия 🇩🇪 (тест)
+vless://218b7dcf-6080-486f-ad40-e7278d65fee2@144.31.215.162:443?security=reality&encryption=none&pbk=kqKpUiLtm5SPT2NO5Ss4LuH9xpTOxi79UJZWURwulwI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=547f159030aedc64#Германия 🇩🇪 (тест)
+vless://1b487f79-6b87-4971-863c-526bd31abd44@94.183.253.211:443?security=reality&encryption=none&pbk=uLuPk7Ee7W9BcvjgM2FJHYG2NJxEeEkP7QVL8jYudhI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=germ2.serverslocal.ru&sid=aa9bfaebd76d8b95#Германия 🇩🇪 (тест)
